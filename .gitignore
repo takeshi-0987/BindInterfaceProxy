@@ -1,0 +1,34 @@
+
+# 日志目录
+logs/
+
+# 配置目录
+config/
+
+# 数据目录
+data/
+
+# geo-ip
+geoip/
+
+build_windows_my.py
+
+# 依赖和构建产物
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+dist/
+build/
+build_logs/
+out/
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+*.spec

@@ -1,0 +1,13 @@
+# 程序运行依赖
+pyside6==6.10.1
+psutil==7.2.0
+requests==2.32.5
+dnspython==2.8.0
+
+# 可选依赖
+colorlog==6.10.1
+maxminddb==3.0.0
+IP2Location==8.11.0
+
+# 打包工具（开发依赖）
+nuitka==2.8.9

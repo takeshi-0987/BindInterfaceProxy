@@ -1,0 +1,150 @@
+====================================================================
+Third-Party Licenses
+This program is licensed under the GNU General Public License v3.0 (GPLv3).
+It uses the following third-party libraries, each under their own license.
+All licenses are compatible with GPLv3.
+====================================================================
+
+1. PySide6 (6.10.1)
+   Components: pyside6, PySide6_Essentials, PySide6_Addons, shiboken6
+   License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+   Copyright (C) 2017-2025 The Qt Company Ltd and others.
+   Source: https://pypi.org/project/PySide6/
+   Note: Used under LGPLv3, which is compatible with GPLv3 per FSF guidelines.
+
+2. psutil (7.2.0)
+   License: BSD 3-Clause License
+   Copyright (c) 2009, Jay Loden <jay.loden@gmail.com>
+           (c) 2009, Giampaolo Rodola <g.rodola@gmail.com>
+   Source: https://github.com/giampaolo/psutil
+   Full license text:
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+     * Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer.
+     * Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution.
+     * Neither the name of the psutil authors nor the names of its contributors
+       may be used to endorse or promote products derived from this software
+       without specific prior written permission.
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+   ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+   SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+   INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+   CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGE.
+
+3. requests (2.32.5)
+   Dependencies: certifi (2025.11.12), charset_normalizer (3.4.4),
+                idna (3.11), urllib3 (2.6.2)
+   License: Apache License 2.0
+   Copyright 2019 Kenneth Reitz
+   Source: https://requests.readthedocs.io/
+   Full license text available at: https://www.apache.org/licenses/LICENSE-2.0
+
+4. dnspython (2.8.0)
+   License: ISC License
+   Copyright (C) 2003-2024 Nominum, Inc., and others.
+   Source: https://www.dnspython.org/
+   Full license text:
+   Permission to use, copy, modify, and distribute this software and its
+   documentation for any purpose with or without fee is hereby granted,
+   provided that the above copyright notice and this permission notice
+   appear in all copies.
+   THE SOFTWARE IS PROVIDED "AS IS" AND NOMINUM DISCLAIMS ALL WARRANTIES
+   WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+   MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL NOMINUM BE LIABLE FOR
+   ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+   WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+   ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+   OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+5. maxminddb (3.0.0)
+   License: Apache License 2.0
+   Copyright 2014-2025 MaxMind, Inc.
+   Source: https://github.com/maxmind/MaxMind-DB-Reader-python
+   Full license text available at: https://www.apache.org/licenses/LICENSE-2.0
+
+6. IP2Location (8.11.0)
+   License: MIT License
+   Copyright (c) 2016-2024 IP2Location.com
+   Source: https://pypi.org/project/IP2Location/
+   Full license text:
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. colorlog (6.10.1)
+   Dependency: colorama (0.4.6)
+   License: MIT License
+   Copyright (c) 2014 Sam Clements
+   Source: https://github.com/borntyping/python-colorlog
+   Full license text:
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+8. Nuitka (2.8.9) — Build Tool Only
+   License: Apache License 2.0
+   Copyright 2025 Kay Hayen
+   Source: https://nuitka.net/
+   Note: Nuitka is used only as a build-time compiler and is not included in the
+   final distributed executable. Therefore, its license does not affect the
+   licensing of the distributed program.
+
+9. Fonts - Maple Mono
+     Copyright 2022 The Maple Mono Project Authors
+     Source: https://github.com/subframe7536/maple-font
+     License: SIL Open Font License v1.1 (OFL-1.1)
+     Included files: fonts/Maple-Mono-Regular.ttf
+     License file: fonts/OFL.txt
+
+10. Media Assets - Startup Image: "矿机特写照片"
+     Author: panumas nikhomkhai
+     Source: https://www.pexels.com/zh-cn/photo/1148820/
+     License: Pexels License (https://www.pexels.com/license/)
+     Note: Free for commercial use. No attribution required, but credit is appreciated.
+
+11. AI-Assisted Content
+
+    - All the icons were generated using AI image tools
+      (Qianwen、Tongyi Wanxiang) in 2025. These are original outputs not derived from copyrighted works.
+
+    - Some code snippets were initially generated by AI coding assistants
+      (e.g., DeepSeek, GitHub Copilot). All such code has been reviewed, modified,
+      and integrated by the author, and constitutes original expression
+      under the project's GPLv3 license.
+
+====================================================================
+End of Third-Party Licenses
+====================================================================
